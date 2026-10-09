@@ -17,5 +17,5 @@ Personal portfolio site for Mounika Patnam, Agentic AI / Python Engineer.
 - Contact
 
 ## Contact
-- Email: mounikapatnam53@gmail.com
+- Email: patnammounika6@gmail.com
 - GitHub: [@patnammounika](https://github.com/patnammounika)
